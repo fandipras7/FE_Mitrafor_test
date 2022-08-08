@@ -9,7 +9,6 @@ const Sidebar = ({ children }) => {
     return (
         <Layout>
             <Sider className={style.menuBar}>
-                <div style={{ minHeight: "20vh" }}></div>
                 <Nav link="/"
                     title="Home"
                 ></Nav>

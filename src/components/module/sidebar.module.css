@@ -1,0 +1,14 @@
+.menuBar {
+  width: 15px;
+  height: 100vh;
+  overflow: auto;
+  padding: 10px;
+  background-color: brown;
+}
+
+.contents {
+  padding: 10px;
+  height: 100vh;
+  overflow: auto;
+  background-color: #C4A484;
+}
